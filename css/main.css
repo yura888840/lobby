@@ -1498,6 +1498,15 @@ header .logo a {
 	margin-bottom: 3rem;
 }
 
+#cv {
+	background: #FFFFFF;
+	padding-top: 12rem;
+	padding-bottom: 15rem;
+}
+#cv .section-intro {
+	margin-bottom: 3rem;
+}
+
 .intro-info {
 	margin-top: 4.2rem;
 	margin-right: -30px;
